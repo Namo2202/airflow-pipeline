@@ -11,7 +11,7 @@ to_process_dir = '/mnt/d/Booster Data IA/toProcess'
 processed_dir = '/mnt/d/Booster Data IA/already_processed'
 result_dir = '/mnt/d/Booster Data IA/result'
 
-# Assurez-vous que les répertoires existent
+
 os.makedirs(to_process_dir, exist_ok=True)
 os.makedirs(processed_dir, exist_ok=True)
 os.makedirs(result_dir, exist_ok=True)
