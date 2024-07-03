@@ -78,7 +78,3 @@ Ce projet utilise Apache Airflow pour automatiser le traitement des fichiers CSV
 
      ![Alt text](<Capture d’écran 1.png>)
      ![Alt text](<Capture d’écran 2.png>)
-
-- **Nom:** Nafise
-- **Email:** nafise.mougamadousalime@gmail.com
-- **GitHub:** [Namo2202](https://github.com/Namo2202)
